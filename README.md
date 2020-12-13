@@ -12,5 +12,5 @@ Diving deeper into the data, we can establish that the subcategory that was the 
 Looking at the following graph, we can visualize that May is the month that has a greater posibility to be funded.  The months you need to be more cautios are January, June, July and October. These months have a higher tendency for not reaching their goals.
 ![Outcomes](/Outcomes%20Based%20on%20Launch%20Dates.png)
 
-In this last graph, we can visualize that for the production in Great Britain, 
+In this last graph, we can visualize that for the production in Great Britain, the amount pledged is less than the median of the goals, therefore, if you want to venture into this sector, you might want to keep the goal amount under 4,000 libras.
 ![GB](/GB%20Goal%20vs%20Pledged%20Musicals.png)
